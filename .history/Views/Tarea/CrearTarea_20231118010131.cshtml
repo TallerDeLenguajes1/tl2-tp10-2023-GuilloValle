@@ -1,0 +1,14 @@
+@model Tarea
+
+
+<form asp-controller="Tarea" asp-action="CrearTarea">
+    <div class="form-group">
+        <label asp-for="@Model.Nombre"></label>
+        <input asp-for="@Model.Nombre" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="@Model.descripcion"></label>
+        <input asp-for="@Model.descripcion" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Enviar</button>
+</form>

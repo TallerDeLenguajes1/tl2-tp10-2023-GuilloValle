@@ -1,0 +1,31 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+@model List<Tablero>
+
+<h2>Lista de tableros</h2>
+
+<table class="table table-dark">
+    <thead>
+        <tr>
+            <th >Id</th>
+            <th>Nombre</th>
+            <th>Descripcion</th>
+            <th>Id_propietario</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var tablero in Model)
+        {
+            <tr>
+                <td>@tablero.Id</td>
+                <td>@tablero.Nombre</td>
+                <td>@tablero.Descripcion</td>
+                <td>@tablero.Id_propietario</td>
+                <td><a asp-action="EliminarUsuario" asp-route-idUsuario="@tablero.Id" onclick="return confirm('¿Estás seguro de eliminar este usuario?')">Eliminar</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
