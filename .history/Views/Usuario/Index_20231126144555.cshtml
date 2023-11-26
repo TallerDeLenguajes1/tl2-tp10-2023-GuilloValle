@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+@model ListarUsuariosViewModel
+
+<h2>Lista de usuarios</h2>
+
+<table class="table table-dark">
+    <thead>
+        <tr>
+            <th >ID</th>
+            <th>Nombre</th>
+            <th>Rol</th>
+            <th>Modificar</th>
+            <th>Eliminar</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var usuario in Model)
+        {
+            <tr>
+                <td>@usuario.Id</td>
+                <td>@usuario.NombreDeUsuario</td>
+                <td>@usuario.Rol</td>
+               <td><a asp-asp-controller ="Usuario" asp-action="ModificarUsuario" asp-route-idUsuario="@usuario.Id">Modificar</a></td>
+                <td><a asp-asp-controller ="Usuario" asp-action="EliminarUsuario" asp-route-idUsuario="@usuario.Id" onclick="return confirm('¿Estás seguro de eliminar este usuario?')">Eliminar</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

@@ -1,0 +1,16 @@
+@{
+    ViewData["Title"] = "Usuario";
+}
+
+@using tl2_tp10_2023_GuilloValle.ViewModels
+@model ModificarUsuarioViewModel
+
+
+<form asp-controller="Usuario" asp-action="ModificarUsuario">
+    <input hidden asp-for="@Model.Id_usuario">
+    <div class="form-group">
+        <label asp-for="@Model.Nombre_de_usuario"></label>
+        <input asp-for="@Model.Nombre_de_usuario" class="form-control" />
+    </div>
+    <button type="submit">Enviar</button>
+</form>
