@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Guillo\\Desktop\\taller2\\tl2-tp10-2023-GuilloValle-propio\\tl2-tp10-2023-GuilloValle.csproj": {}
+    "C:\\Users\\Guillo\\Desktop\\taller2\\TP11\\tl2-tp10-2023-GuilloValle\\tl2-tp10-2023-GuilloValle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Guillo\\Desktop\\taller2\\tl2-tp10-2023-GuilloValle-propio\\tl2-tp10-2023-GuilloValle.csproj": {
+    "C:\\Users\\Guillo\\Desktop\\taller2\\TP11\\tl2-tp10-2023-GuilloValle\\tl2-tp10-2023-GuilloValle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Guillo\\Desktop\\taller2\\tl2-tp10-2023-GuilloValle-propio\\tl2-tp10-2023-GuilloValle.csproj",
+        "projectUniqueName": "C:\\Users\\Guillo\\Desktop\\taller2\\TP11\\tl2-tp10-2023-GuilloValle\\tl2-tp10-2023-GuilloValle.csproj",
         "projectName": "tl2-tp10-2023-GuilloValle",
-        "projectPath": "C:\\Users\\Guillo\\Desktop\\taller2\\tl2-tp10-2023-GuilloValle-propio\\tl2-tp10-2023-GuilloValle.csproj",
+        "projectPath": "C:\\Users\\Guillo\\Desktop\\taller2\\TP11\\tl2-tp10-2023-GuilloValle\\tl2-tp10-2023-GuilloValle.csproj",
         "packagesPath": "C:\\Users\\Guillo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Guillo\\Desktop\\taller2\\tl2-tp10-2023-GuilloValle-propio\\obj\\",
+        "outputPath": "C:\\Users\\Guillo\\Desktop\\taller2\\TP11\\tl2-tp10-2023-GuilloValle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Guillo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -39,6 +39,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "System.Data.SQLite": {
               "target": "Package",
               "version": "[1.0.118, )"
