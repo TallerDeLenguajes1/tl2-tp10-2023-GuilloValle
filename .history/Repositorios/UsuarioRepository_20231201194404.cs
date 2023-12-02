@@ -22,7 +22,6 @@ public class UsuarioRepository : IUsuarioRepository
                         var usuario = new Usuario();
                         usuario.Id = Convert.ToInt32(reader["id"]);
                         usuario.NombreDeUsuario = reader["Nombre_de_usuario"].ToString();
-                        usuario.Password = reader["password"].ToString();
                         usuario.Rol = (Rol)Convert.ToInt32(reader["rol"]);
                         usuarios.Add(usuario);
                     }

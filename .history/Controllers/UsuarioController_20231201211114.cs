@@ -61,7 +61,6 @@ public class UsuarioController : Controller
        }
 
        return RedirectToRoute(new{controller = "Login", action = "Index"});
-       
 
     }
 

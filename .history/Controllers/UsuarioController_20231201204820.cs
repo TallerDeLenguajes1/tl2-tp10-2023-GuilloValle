@@ -40,29 +40,21 @@ public class UsuarioController : Controller
     [HttpGet]
     public IActionResult CrearUsuario()
     {   
-        
         if(isAdmin()){
 
         return View(new CrearUsuarioViewModel());
 
         }
-        return RedirectToRoute(new{controller = "Login", action = "Index"});
+         return RedirectToRoute(new{controller = "Login", action = "Index"});
         
     }
 
     [HttpPost]
     public IActionResult CrearUsuario(CrearUsuarioViewModel usuarioCVM)
     {   
-       if (isAdmin())
-       {
-         var nuevoUsuario = new Usuario(usuarioCVM);
-         usuarioRepository.CrearNuevoUsuario(nuevoUsuario);
-         return RedirectToAction("Index");
-       }
-
-       return RedirectToRoute(new{controller = "Login", action = "Index"});
-       
-
+        var nuevoUsuario = new Usuario(usuarioCVM);
+        usuarioRepository.CrearNuevoUsuario(nuevoUsuario);
+        return RedirectToAction("Index");
     }
 
     [HttpGet]

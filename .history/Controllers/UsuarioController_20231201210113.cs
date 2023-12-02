@@ -40,13 +40,12 @@ public class UsuarioController : Controller
     [HttpGet]
     public IActionResult CrearUsuario()
     {   
-        
         if(isAdmin()){
 
         return View(new CrearUsuarioViewModel());
 
         }
-        return RedirectToRoute(new{controller = "Login", action = "Index"});
+         return RedirectToRoute(new{controller = "Login", action = "Index"});
         
     }
 
@@ -59,10 +58,6 @@ public class UsuarioController : Controller
          usuarioRepository.CrearNuevoUsuario(nuevoUsuario);
          return RedirectToAction("Index");
        }
-
-       return RedirectToRoute(new{controller = "Login", action = "Index"});
-       
-
     }
 
     [HttpGet]

@@ -44,9 +44,9 @@ namespace tl2_tp10_2023_GuilloValle.Controllers;
 
 
      private void LoguearUsuario(Usuario usuario){
-        HttpContext.Session.SetInt32("id", usuario.Id);
-        HttpContext.Session.SetString("Usuario", usuario.NombreDeUsuario);
-        HttpContext.Session.SetString("Rol", usuario.Rol.ToString());
+        HttpContext.Session.SetString("id", usuario.Id.ToString());
+        HttpContext.Session.SetString("usuario", usuario.NombreDeUsuario);
+        HttpContext.Session.SetString("rol", usuario.Rol.ToString());
     }
 
 

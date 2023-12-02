@@ -27,7 +27,7 @@ public class TareaRepository : ItareaRepository
                         tarea.Nombre = reader["Nombre"].ToString();
                         tarea.Descripcion = reader["descripcion"].ToString();
                         tarea.Color = reader["color"].ToString();
-                        tarea.Estado = (Estado)Convert.ToInt32(reader["estado"]);
+                        tarea.Estado = (estado)Convert.ToInt32(reader["estado"]);
                         Tareas.Add(tarea);
                     }
                 }

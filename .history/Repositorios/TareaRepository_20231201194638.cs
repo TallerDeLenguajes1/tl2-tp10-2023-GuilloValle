@@ -27,7 +27,7 @@ public class TareaRepository : ItareaRepository
                         tarea.Nombre = reader["Nombre"].ToString();
                         tarea.Descripcion = reader["descripcion"].ToString();
                         tarea.Color = reader["color"].ToString();
-                        tarea.Estado = (Estado)Convert.ToInt32(reader["estado"]);
+                        tarea.Estado = (estado)Convert.ToInt32(reader["estado"]);
                         Tareas.Add(tarea);
                     }
                 }
@@ -56,7 +56,7 @@ public class TareaRepository : ItareaRepository
                         tarea.Nombre = reader["Nombre"].ToString();
                         tarea.Descripcion = reader["descripcion"].ToString();
                         tarea.Color = reader["color"].ToString();
-                        tarea.Estado = (Estado)Convert.ToInt32(reader["estado"]);
+                        tarea.Estado = (estado)Convert.ToInt32(reader["estado"]);
                         Tareas.Add(tarea);
                     }
                 }
@@ -86,7 +86,7 @@ public class TareaRepository : ItareaRepository
                     tarea.Nombre = reader["Nombre"].ToString();
                     tarea.Descripcion = reader["descripcion"].ToString();
                     tarea.Color = reader["color"].ToString();
-                    tarea.Estado = (Estado)Convert.ToInt32(reader["estado"]);
+                    tarea.Estado = (estado)Convert.ToInt32(reader["estado"]);
                     Tareas.Add(tarea);
                 }
 
@@ -118,7 +118,7 @@ public class TareaRepository : ItareaRepository
                         tarea.Nombre = reader["Nombre"].ToString();
                         tarea.Descripcion = reader["descripcion"].ToString();
                         tarea.Color = reader["color"].ToString();
-                        tarea.Estado = (Estado)Convert.ToInt32(reader["estado"]);
+                        tarea.Estado = (estado)Convert.ToInt32(reader["estado"]);
                         Tareas.Add(tarea);
                     }
                 }
@@ -171,7 +171,7 @@ public class TareaRepository : ItareaRepository
             }
     }
 
-     public void ModificarEstadoDeTarea(int id,Estado nuevoEstado){
+     public void ModificarEstadoDeTarea(int id,estado nuevoEstado){
 
          using( SQLiteConnection connection = new SQLiteConnection(cadenaConexion))
             {

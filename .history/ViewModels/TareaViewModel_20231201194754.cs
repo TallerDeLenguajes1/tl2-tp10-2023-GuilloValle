@@ -9,7 +9,7 @@ namespace tl2_tp10_2023_GuilloValle.ViewModels;
     {
         private int id_tarea;
         private string? nombre;
-        private Estado estado;
+        private estado estado;
         private string? descripcion;
         private string? color;
 

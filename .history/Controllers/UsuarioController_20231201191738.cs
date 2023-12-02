@@ -20,49 +20,25 @@ public class UsuarioController : Controller
     [HttpGet]
     public IActionResult Index()
     {   
-        if (HttpContext.Session.GetString("Rol") == null)
-        {
-             return RedirectToRoute(new{controller = "Login", action = "Index"});
-        }else if (isAdmin())
-            {
-                var Usuarios = usuarioRepository.GetAllUsuarios();
-                var UsuarioVM = new ListarUsuariosViewModel(Usuarios);
-                return View(UsuarioVM);
-            }else
-                {   var usuario = usuarioRepository.GetAllUsuarios().FindAll(u => u.Id ==  HttpContext.Session.GetInt32("id"));
-                    var usuario1 = new ListarUsuariosViewModel(usuario);
-                    return View(usuario1);
-                }            
-        
+        var Usuarios = usuarioRepository.GetAllUsuarios();
+        var UsuarioVM = new ListarUsuariosViewModel(Usuarios);
+        return View(UsuarioVM);
     }
 
 
     [HttpGet]
     public IActionResult CrearUsuario()
     {   
-        
-        if(isAdmin()){
-
+        if(is)
         return View(new CrearUsuarioViewModel());
-
-        }
-        return RedirectToRoute(new{controller = "Login", action = "Index"});
-        
     }
 
     [HttpPost]
     public IActionResult CrearUsuario(CrearUsuarioViewModel usuarioCVM)
     {   
-       if (isAdmin())
-       {
-         var nuevoUsuario = new Usuario(usuarioCVM);
-         usuarioRepository.CrearNuevoUsuario(nuevoUsuario);
-         return RedirectToAction("Index");
-       }
-
-       return RedirectToRoute(new{controller = "Login", action = "Index"});
-       
-
+        var nuevoUsuario = new Usuario(usuarioCVM);
+        usuarioRepository.CrearNuevoUsuario(nuevoUsuario);
+        return RedirectToAction("Index");
     }
 
     [HttpGet]
@@ -88,7 +64,7 @@ public class UsuarioController : Controller
     }
 
      private bool isAdmin(){
-        if(HttpContext.Session != null && HttpContext.Session.GetString("Rol") == "administrador"){
+        if(HttpContext.Session != null && HttpContext.Session.GetString("Rol") == "Administrador"){
             return true;
         }
         return false;
