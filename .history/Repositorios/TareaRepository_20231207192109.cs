@@ -38,7 +38,7 @@ public class TareaRepository : ItareaRepository
 
     public Tarea GetTareaById(int id){
         
-            var queryString = @"SELECT * FROM Tareas WHERE id = @idTarea;";
+        var queryString = @"SELECT * FROM Tareas WHERE id = @idTarea;";
             Tarea Tarea = new Tarea();
             using (SQLiteConnection connection = new SQLiteConnection(cadenaConexion))
             {
@@ -58,15 +58,14 @@ public class TareaRepository : ItareaRepository
                         tarea.Descripcion = reader["descripcion"].ToString();
                         tarea.Color = reader["color"].ToString();
                         tarea.Estado = (Estado)Convert.ToInt32(reader["estado"]);
-                        
+                        Tareas.Add(tarea);
                     }
+                }
                 connection.Close();
             }
             return Tarea;
 
-            }
-        }
-
+    }
     public List<Tarea> GetAllTareasDeUnUsuario(int idUsuario){
 
             var queryString = @"SELECT * FROM Tareas WHERE id_usuario_asignado = @idUsuario;";

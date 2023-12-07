@@ -45,13 +45,7 @@ public class TareaController : Controller
     [HttpGet]
     public IActionResult CrearTarea()
     {   
-        if (isAdmin())
-        {
-            return View(new Tarea());
-        }else
-        {
-            return RedirectToRoute(new{controller = "Home", action = "Index"});
-        }
+        return View(new Tarea());
     }
 
     [HttpPost]
