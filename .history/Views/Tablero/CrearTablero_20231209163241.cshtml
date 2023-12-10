@@ -1,0 +1,22 @@
+
+
+
+@using tl2_tp10_2023_GuilloValle.ViewModels
+@model CrearTableroViewModel    
+
+
+<form asp-controller="Tablero" asp-action="CrearTablero">
+    <div class="form-group">
+        <label asp-for="@Model.Nombre"></label>
+        <input asp-for="@Model.Nombre" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="@Model.Descripcion"></label>
+        <input asp-for="@Model.Descripcion" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="@Model.IdPropietario"></label>
+        <input asp-for="@Model.IdPropietario" class="form-control" /> @*tiene que mostrar una lista con los usuario que hay*@
+    </div>
+    <button type="submit" class="btn btn-primary">Enviar</button>
+</form>
