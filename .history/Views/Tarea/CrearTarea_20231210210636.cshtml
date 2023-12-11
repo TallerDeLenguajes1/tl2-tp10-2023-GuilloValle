@@ -1,0 +1,50 @@
+@using tl2_tp10_2023_GuilloValle.ViewModels
+@model CrearTareaViewModel   
+
+
+<form asp-controller="Tarea" asp-action="CrearTarea">
+    <div class="form-group">
+        <label asp-for="@Model.idTablero"></label>
+        <select asp-for="@Model.idTablero">
+            <option selected value="0">Sin Tablero</option>
+                    @foreach(var tablero in Model.tableros  ){
+                        <option value="@tablero.Id">@tablero.Nombre</option>
+                    }
+        </select>
+    </div>
+    <div class="form-group">
+        <label asp-for="@Model.Nombre"></label>
+        <input asp-for="@Model.Nombre" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="@Model.Descripcion"></label>
+        <input asp-for="@Model.Descripcion" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="@Model.Color"></label>
+        <input asp-for="@Model.Color" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="@Model.Estado"></label>
+        <select asp-for="@Model.Estado">
+            <option value="0">Ideas</option>
+            <option value="1">ToDo</option>
+            <option value="2">Doing</option>
+            <option value="3">Review</option>
+            <option value="4">Done</option> 
+        </select>
+        
+    </div>
+    <div class="form-group">
+                <label asp-for="@Model.idUsuarioAsingnado">Usuario Asignado: </label>
+                <select class="form-select" asp-for="@Model.idUsuarioAsingnado">
+                    <option selected value="0">Sin Asignar</option>
+                    @foreach(var usuario in Model.usuarios){
+                        <option value="@usuario.Id">@usuario.NombreDeUsuario</option>
+                    }
+                </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Enviar</button>
+</form>
+
+@section Scripts { <partial name="_ValidationScriptsPartial" /> }

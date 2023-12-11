@@ -9,789 +9,917 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = tl2_tp10_2023_GuilloValle
 build_property.RootNamespace = tl2_tp10_2023_GuilloValle
-build_property.ProjectDir = c:\Users\Guillo\Desktop\taller2\TP11\tl2-tp10-2023-GuilloValle\.history\
+build_property.ProjectDir = c:\Users\Guillo\Desktop\taller2\TP12\tl2-tp10-2023-GuilloValle\.history\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\Guillo\Desktop\taller2\TP11\tl2-tp10-2023-GuilloValle\.history
+build_property.MSBuildProjectDirectory = c:\Users\Guillo\Desktop\taller2\TP12\tl2-tp10-2023-GuilloValle\.history
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Login/index_20231125203541.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Login/index_20231125203541.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5caW5kZXhfMjAyMzExMjUyMDM1NDEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Login/index_20231125203633.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Login/index_20231125203633.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5caW5kZXhfMjAyMzExMjUyMDM2MzMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Login/index_20231125203634.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Login/index_20231125203634.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5caW5kZXhfMjAyMzExMjUyMDM2MzQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Login/index_20231125203638.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Login/index_20231125203638.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5caW5kZXhfMjAyMzExMjUyMDM2MzguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231111094809.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Login/index_20231210202733.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5caW5kZXhfMjAyMzEyMTAyMDI3MzMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231111094809.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMjAyMzExMTEwOTQ4MDkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231111102309.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231111102309.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMjAyMzExMTExMDIzMDkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231111102310.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231111102310.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMjAyMzExMTExMDIzMTAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231111102312.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231111102312.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMjAyMzExMTExMDIzMTIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231111102359.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231111102359.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMjAyMzExMTExMDIzNTkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231116224441.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231116224441.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMjAyMzExMTYyMjQ0NDEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231116224451.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231116224451.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMjAyMzExMTYyMjQ0NTEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231116224453.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231116224453.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMjAyMzExMTYyMjQ0NTMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231116233322.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231116233322.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMjAyMzExMTYyMzMzMjIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231116235157.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231116235157.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMjAyMzExMTYyMzUxNTcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231117112855.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231117112855.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMjAyMzExMTcxMTI4NTUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231117112913.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231117112913.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMjAyMzExMTcxMTI5MTMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231117113629.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231117113629.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMjAyMzExMTcxMTM2MjkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231117113630.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231117113630.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMjAyMzExMTcxMTM2MzAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231117115253.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231117115253.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMjAyMzExMTcxMTUyNTMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231117115255.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231117115255.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMjAyMzExMTcxMTUyNTUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231117191835.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231117191835.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMjAyMzExMTcxOTE4MzUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231117192630.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231117192630.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMjAyMzExMTcxOTI2MzAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231117192642.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231117192642.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMjAyMzExMTcxOTI2NDIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231118004950.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231118004950.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMjAyMzExMTgwMDQ5NTAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231118010931.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231118010931.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMjAyMzExMTgwMTA5MzEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231118010937.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231118010937.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMjAyMzExMTgwMTA5MzcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231118010938.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231118010938.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMjAyMzExMTgwMTA5MzguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231125203258.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231125203258.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMjAyMzExMjUyMDMyNTguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231125203300.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231125203300.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMjAyMzExMjUyMDMzMDAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231125203302.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Shared/_Layout_20231125203302.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMjAyMzExMjUyMDMzMDIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231117110958.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231117110958.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xDcmVhclRhYmxlcm9fMjAyMzExMTcxMTA5NTguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231117112216.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231117112216.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xDcmVhclRhYmxlcm9fMjAyMzExMTcxMTIyMTYuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231117112233.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231117112233.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xDcmVhclRhYmxlcm9fMjAyMzExMTcxMTIyMzMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231117112303.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231117112303.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xDcmVhclRhYmxlcm9fMjAyMzExMTcxMTIzMDMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231117112414.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231117112414.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xDcmVhclRhYmxlcm9fMjAyMzExMTcxMTI0MTQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231117112709.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231117112709.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xDcmVhclRhYmxlcm9fMjAyMzExMTcxMTI3MDkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231117192758.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231117192758.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xDcmVhclRhYmxlcm9fMjAyMzExMTcxOTI3NTguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231117192840.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231117192840.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xDcmVhclRhYmxlcm9fMjAyMzExMTcxOTI4NDAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231117192950.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231117192950.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xDcmVhclRhYmxlcm9fMjAyMzExMTcxOTI5NTAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231209144557.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231209144557.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xDcmVhclRhYmxlcm9fMjAyMzEyMDkxNDQ1NTcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231209145447.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231209145447.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xDcmVhclRhYmxlcm9fMjAyMzEyMDkxNDU0NDcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231209145754.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231209145754.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xDcmVhclRhYmxlcm9fMjAyMzEyMDkxNDU3NTQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231209163241.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231209163241.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xDcmVhclRhYmxlcm9fMjAyMzEyMDkxNjMyNDEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231209205943.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231209205943.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xDcmVhclRhYmxlcm9fMjAyMzEyMDkyMDU5NDMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117112433.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231210203434.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xDcmVhclRhYmxlcm9fMjAyMzEyMTAyMDM0MzQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231210203515.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xDcmVhclRhYmxlcm9fMjAyMzEyMTAyMDM1MTUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/CrearTablero_20231210203516.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xDcmVhclRhYmxlcm9fMjAyMzEyMTAyMDM1MTYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117112433.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTExNzExMjQzMy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117112448.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117112448.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTExNzExMjQ0OC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117112519.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117112519.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTExNzExMjUxOS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117112626.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117112626.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTExNzExMjYyNi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117112637.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117112637.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTExNzExMjYzNy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117112640.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117112640.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTExNzExMjY0MC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117112642.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117112642.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTExNzExMjY0Mi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117112707.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117112707.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTExNzExMjcwNy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117112711.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117112711.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTExNzExMjcxMS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117112726.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117112726.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTExNzExMjcyNi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117112728.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117112728.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTExNzExMjcyOC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117121415.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117121415.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTExNzEyMTQxNS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117121444.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117121444.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTExNzEyMTQ0NC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117121449.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117121449.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTExNzEyMTQ0OS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117121450.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117121450.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTExNzEyMTQ1MC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117121452.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117121452.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTExNzEyMTQ1Mi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117122927.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117122927.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTExNzEyMjkyNy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117185019.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117185019.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTExNzE4NTAxOS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117185021.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117185021.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTExNzE4NTAyMS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117185031.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117185031.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTExNzE4NTAzMS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117185059.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117185059.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTExNzE4NTA1OS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117185955.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117185955.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTExNzE4NTk1NS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117190306.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117190306.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTExNzE5MDMwNi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117191717.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117191717.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTExNzE5MTcxNy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117191724.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231117191724.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTExNzE5MTcyNC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231201191145.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231201191145.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTIwMTE5MTE0NS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231207172043.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231207172043.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTIwNzE3MjA0My5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231207172316.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231207172316.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTIwNzE3MjMxNi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231207172407.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/Index_20231207172407.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xJbmRleF8yMDIzMTIwNzE3MjQwNy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231117114835.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231117114835.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xNb2RpZmljYXJUYWJsZXJvXzIwMjMxMTE3MTE0ODM1LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231117114912.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231117114912.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xNb2RpZmljYXJUYWJsZXJvXzIwMjMxMTE3MTE0OTEyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231117115039.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231117115039.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xNb2RpZmljYXJUYWJsZXJvXzIwMjMxMTE3MTE1MDM5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231117115147.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231117115147.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xNb2RpZmljYXJUYWJsZXJvXzIwMjMxMTE3MTE1MTQ3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231117120609.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231117120609.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xNb2RpZmljYXJUYWJsZXJvXzIwMjMxMTE3MTIwNjA5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231117120615.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231117120615.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xNb2RpZmljYXJUYWJsZXJvXzIwMjMxMTE3MTIwNjE1LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231117120616.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231117120616.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xNb2RpZmljYXJUYWJsZXJvXzIwMjMxMTE3MTIwNjE2LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231117185345.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231117185345.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xNb2RpZmljYXJUYWJsZXJvXzIwMjMxMTE3MTg1MzQ1LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231117185349.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231117185349.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xNb2RpZmljYXJUYWJsZXJvXzIwMjMxMTE3MTg1MzQ5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231117185401.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231117185401.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xNb2RpZmljYXJUYWJsZXJvXzIwMjMxMTE3MTg1NDAxLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231118001723.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231118001723.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xNb2RpZmljYXJUYWJsZXJvXzIwMjMxMTE4MDAxNzIzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231209162135.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231209162135.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xNb2RpZmljYXJUYWJsZXJvXzIwMjMxMjA5MTYyMTM1LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231209162343.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231209162343.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xNb2RpZmljYXJUYWJsZXJvXzIwMjMxMjA5MTYyMzQzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231209162344.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231209162344.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xNb2RpZmljYXJUYWJsZXJvXzIwMjMxMjA5MTYyMzQ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231118010022.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231210204057.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xNb2RpZmljYXJUYWJsZXJvXzIwMjMxMjEwMjA0MDU3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231210204255.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xNb2RpZmljYXJUYWJsZXJvXzIwMjMxMjEwMjA0MjU1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tablero/ModificarTablero_20231210205455.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVyb1xNb2RpZmljYXJUYWJsZXJvXzIwMjMxMjEwMjA1NDU1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231118010022.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcQ3JlYXJUYXJlYV8yMDIzMTExODAxMDAyMi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231118010033.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231118010033.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcQ3JlYXJUYXJlYV8yMDIzMTExODAxMDAzMy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231118010131.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231118010131.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcQ3JlYXJUYXJlYV8yMDIzMTExODAxMDEzMS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231118010213.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231118010213.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcQ3JlYXJUYXJlYV8yMDIzMTExODAxMDIxMy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231118010237.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231118010237.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcQ3JlYXJUYXJlYV8yMDIzMTExODAxMDIzNy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231118010317.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231118010317.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcQ3JlYXJUYXJlYV8yMDIzMTExODAxMDMxNy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231118010318.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231118010318.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcQ3JlYXJUYXJlYV8yMDIzMTExODAxMDMxOC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231118011645.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231118011645.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcQ3JlYXJUYXJlYV8yMDIzMTExODAxMTY0NS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231126151542.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231126151542.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcQ3JlYXJUYXJlYV8yMDIzMTEyNjE1MTU0Mi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231126153052.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231126153052.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcQ3JlYXJUYXJlYV8yMDIzMTEyNjE1MzA1Mi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231209163406.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231209163406.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcQ3JlYXJUYXJlYV8yMDIzMTIwOTE2MzQwNi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231209163453.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231209163453.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcQ3JlYXJUYXJlYV8yMDIzMTIwOTE2MzQ1My5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231209164215.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231209164215.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcQ3JlYXJUYXJlYV8yMDIzMTIwOTE2NDIxNS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231209164216.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231209164216.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcQ3JlYXJUYXJlYV8yMDIzMTIwOTE2NDIxNi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231209200758.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231209200758.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcQ3JlYXJUYXJlYV8yMDIzMTIwOTIwMDc1OC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231209200803.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231209200803.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcQ3JlYXJUYXJlYV8yMDIzMTIwOTIwMDgwMy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231209200804.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231209200804.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcQ3JlYXJUYXJlYV8yMDIzMTIwOTIwMDgwNC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231209210818.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231209210818.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcQ3JlYXJUYXJlYV8yMDIzMTIwOTIxMDgxOC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231209210819.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231209210819.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcQ3JlYXJUYXJlYV8yMDIzMTIwOTIxMDgxOS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231117191723.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231210210413.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcQ3JlYXJUYXJlYV8yMDIzMTIxMDIxMDQxMy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231210210636.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcQ3JlYXJUYXJlYV8yMDIzMTIxMDIxMDYzNi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231210210833.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcQ3JlYXJUYXJlYV8yMDIzMTIxMDIxMDgzMy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231210210837.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcQ3JlYXJUYXJlYV8yMDIzMTIxMDIxMDgzNy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231210211041.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcQ3JlYXJUYXJlYV8yMDIzMTIxMDIxMTA0MS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/CrearTarea_20231210211042.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcQ3JlYXJUYXJlYV8yMDIzMTIxMDIxMTA0Mi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231117191723.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcSW5kZXhfMjAyMzExMTcxOTE3MjMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231118004343.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231118004343.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcSW5kZXhfMjAyMzExMTgwMDQzNDMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231118004418.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231118004418.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcSW5kZXhfMjAyMzExMTgwMDQ0MTguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231118004433.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231118004433.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcSW5kZXhfMjAyMzExMTgwMDQ0MzMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231118004506.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231118004506.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcSW5kZXhfMjAyMzExMTgwMDQ1MDYuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231118004509.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231118004509.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcSW5kZXhfMjAyMzExMTgwMDQ1MDkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231118004548.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231118004548.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcSW5kZXhfMjAyMzExMTgwMDQ1NDguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231118004804.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231118004804.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcSW5kZXhfMjAyMzExMTgwMDQ4MDQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231118004805.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231118004805.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcSW5kZXhfMjAyMzExMTgwMDQ4MDUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231118004806.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231118004806.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcSW5kZXhfMjAyMzExMTgwMDQ4MDYuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231118010839.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231118010839.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcSW5kZXhfMjAyMzExMTgwMTA4MzkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231118010940.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231118010940.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcSW5kZXhfMjAyMzExMTgwMTA5NDAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231118011643.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231118011643.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcSW5kZXhfMjAyMzExMTgwMTE2NDMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231201191116.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231201191116.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcSW5kZXhfMjAyMzEyMDExOTExMTYuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231207193359.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231207193359.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcSW5kZXhfMjAyMzEyMDcxOTMzNTkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231207193400.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231207193400.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcSW5kZXhfMjAyMzEyMDcxOTM0MDAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231207193405.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231207193405.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcSW5kZXhfMjAyMzEyMDcxOTM0MDUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231207193406.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/Index_20231207193406.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcSW5kZXhfMjAyMzEyMDcxOTM0MDYuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/ModificarTarea_20231118011754.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/ModificarTarea_20231118011754.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcTW9kaWZpY2FyVGFyZWFfMjAyMzExMTgwMTE3NTQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/ModificarTarea_20231118011824.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/ModificarTarea_20231118011824.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcTW9kaWZpY2FyVGFyZWFfMjAyMzExMTgwMTE4MjQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/ModificarTarea_20231118011843.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/ModificarTarea_20231118011843.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcTW9kaWZpY2FyVGFyZWFfMjAyMzExMTgwMTE4NDMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/ModificarTarea_20231118012724.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/ModificarTarea_20231118012724.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcTW9kaWZpY2FyVGFyZWFfMjAyMzExMTgwMTI3MjQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/ModificarTarea_20231209164128.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/ModificarTarea_20231209164128.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcTW9kaWZpY2FyVGFyZWFfMjAyMzEyMDkxNjQxMjguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231110194801.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/ModificarTarea_20231210195058.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcTW9kaWZpY2FyVGFyZWFfMjAyMzEyMTAxOTUwNTguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/ModificarTarea_20231210210409.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcTW9kaWZpY2FyVGFyZWFfMjAyMzEyMTAyMTA0MDkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/ModificarTarea_20231210210418.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcTW9kaWZpY2FyVGFyZWFfMjAyMzEyMTAyMTA0MTguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/ModificarTarea_20231210210933.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcTW9kaWZpY2FyVGFyZWFfMjAyMzEyMTAyMTA5MzMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Tarea/ModificarTarea_20231210211013.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWFcTW9kaWZpY2FyVGFyZWFfMjAyMzEyMTAyMTEwMTMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231110194801.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzExMTAxOTQ4MDEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231116224348.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231116224348.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzExMTYyMjQzNDguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231118010321.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231118010321.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzExMTgwMTAzMjEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231125100849.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231125100849.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzExMjUxMDA4NDkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231125100918.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231125100918.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzExMjUxMDA5MTguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231125100926.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231125100926.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzExMjUxMDA5MjYuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231125145911.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231125145911.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzExMjUxNDU5MTEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231125145923.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231125145923.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzExMjUxNDU5MjMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231126144548.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231126144548.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzExMjYxNDQ1NDguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231126153216.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231126153216.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzExMjYxNTMyMTYuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231126153224.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231126153224.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzExMjYxNTMyMjQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231126153225.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231126153225.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzExMjYxNTMyMjUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231126154221.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231126154221.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzExMjYxNTQyMjEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231126155700.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231126155700.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzExMjYxNTU3MDAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231126160920.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231126160920.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzExMjYxNjA5MjAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231126161038.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231126161038.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzExMjYxNjEwMzguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231126161331.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231126161331.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzExMjYxNjEzMzEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231126161332.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231126161332.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzExMjYxNjEzMzIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231126163315.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231126163315.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzExMjYxNjMzMTUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231126163316.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231126163316.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzExMjYxNjMzMTYuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231126163330.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231126163330.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzExMjYxNjMzMzAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231110191220.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231210201226.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzEyMTAyMDEyMjYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231210201243.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzEyMTAyMDEyNDMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231210201300.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzEyMTAyMDEzMDAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231210201311.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzEyMTAyMDEzMTEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231210201312.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzEyMTAyMDEzMTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231210201607.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzEyMTAyMDE2MDcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231210201608.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzEyMTAyMDE2MDguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231210202727.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzEyMTAyMDI3MjcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231210202728.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzEyMTAyMDI3MjguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231210202729.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzEyMTAyMDI3MjkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/CrearUsuario_20231210202730.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhclVzdWFyaW9fMjAyMzEyMTAyMDI3MzAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231110191220.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleF8yMDIzMTExMDE5MTIyMC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231116234549.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231116234549.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleF8yMDIzMTExNjIzNDU0OS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231116235022.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231116235022.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleF8yMDIzMTExNjIzNTAyMi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231116235223.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231116235223.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleF8yMDIzMTExNjIzNTIyMy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231117192003.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231117192003.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleF8yMDIzMTExNzE5MjAwMy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231117192040.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231117192040.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleF8yMDIzMTExNzE5MjA0MC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231117192108.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231117192108.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleF8yMDIzMTExNzE5MjEwOC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231117192120.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231117192120.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleF8yMDIzMTExNzE5MjEyMC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231117192127.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231117192127.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleF8yMDIzMTExNzE5MjEyNy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231117192433.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231117192433.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleF8yMDIzMTExNzE5MjQzMy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231125150153.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231125150153.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleF8yMDIzMTEyNTE1MDE1My5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231125150834.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231125150834.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleF8yMDIzMTEyNTE1MDgzNC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231126144514.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231126144514.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleF8yMDIzMTEyNjE0NDUxNC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231126144555.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231126144555.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleF8yMDIzMTEyNjE0NDU1NS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231126145042.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231126145042.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleF8yMDIzMTEyNjE0NTA0Mi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231126145232.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231126145232.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleF8yMDIzMTEyNjE0NTIzMi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231126145233.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231126145233.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleF8yMDIzMTEyNjE0NTIzMy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231126145237.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231126145237.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleF8yMDIzMTEyNjE0NTIzNy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231126150320.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231126150320.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleF8yMDIzMTEyNjE1MDMyMC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231126150402.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231126150402.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleF8yMDIzMTEyNjE1MDQwMi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231126151030.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231126151030.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleF8yMDIzMTEyNjE1MTAzMC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231126151031.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231126151031.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleF8yMDIzMTEyNjE1MTAzMS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231207172045.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/Index_20231207172045.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleF8yMDIzMTIwNzE3MjA0NS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231116223451.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231116223451.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNb2RpZmljYXJVc3VhcmlvXzIwMjMxMTE2MjIzNDUxLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231116223946.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231116223946.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNb2RpZmljYXJVc3VhcmlvXzIwMjMxMTE2MjIzOTQ2LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231116224003.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231116224003.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNb2RpZmljYXJVc3VhcmlvXzIwMjMxMTE2MjI0MDAzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231116224043.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231116224043.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNb2RpZmljYXJVc3VhcmlvXzIwMjMxMTE2MjI0MDQzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231116224250.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231116224250.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNb2RpZmljYXJVc3VhcmlvXzIwMjMxMTE2MjI0MjUwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231116224319.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231116224319.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNb2RpZmljYXJVc3VhcmlvXzIwMjMxMTE2MjI0MzE5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231116224343.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231116224343.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNb2RpZmljYXJVc3VhcmlvXzIwMjMxMTE2MjI0MzQzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231116225416.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231116225416.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNb2RpZmljYXJVc3VhcmlvXzIwMjMxMTE2MjI1NDE2LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231116225557.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231116225557.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNb2RpZmljYXJVc3VhcmlvXzIwMjMxMTE2MjI1NTU3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231116225558.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231116225558.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNb2RpZmljYXJVc3VhcmlvXzIwMjMxMTE2MjI1NTU4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231116231457.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231116231457.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNb2RpZmljYXJVc3VhcmlvXzIwMjMxMTE2MjMxNDU3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231117120731.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231117120731.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNb2RpZmljYXJVc3VhcmlvXzIwMjMxMTE3MTIwNzMxLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231117120958.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231117120958.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNb2RpZmljYXJVc3VhcmlvXzIwMjMxMTE3MTIwOTU4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231117192423.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231117192423.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNb2RpZmljYXJVc3VhcmlvXzIwMjMxMTE3MTkyNDIzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231117194846.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231117194846.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNb2RpZmljYXJVc3VhcmlvXzIwMjMxMTE3MTk0ODQ2LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231125151410.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231125151410.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNb2RpZmljYXJVc3VhcmlvXzIwMjMxMTI1MTUxNDEwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231126172705.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231126172705.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNb2RpZmljYXJVc3VhcmlvXzIwMjMxMTI2MTcyNzA1LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231126172727.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231126172727.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNb2RpZmljYXJVc3VhcmlvXzIwMjMxMTI2MTcyNzI3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231126172812.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231126172812.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNb2RpZmljYXJVc3VhcmlvXzIwMjMxMTI2MTcyODEyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231126172853.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231126172853.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNb2RpZmljYXJVc3VhcmlvXzIwMjMxMTI2MTcyODUzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231126172854.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231126172854.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNb2RpZmljYXJVc3VhcmlvXzIwMjMxMTI2MTcyODU0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Guillo/Desktop/taller2/TP11/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231126172855.cshtml]
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231126172855.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNb2RpZmljYXJVc3VhcmlvXzIwMjMxMTI2MTcyODU1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231210201101.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNb2RpZmljYXJVc3VhcmlvXzIwMjMxMjEwMjAxMTAxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231210203014.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNb2RpZmljYXJVc3VhcmlvXzIwMjMxMjEwMjAzMDE0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Guillo/Desktop/taller2/TP12/tl2-tp10-2023-GuilloValle/.history/Views/Usuario/ModificarUsuario_20231210203015.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNb2RpZmljYXJVc3VhcmlvXzIwMjMxMjEwMjAzMDE1LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
