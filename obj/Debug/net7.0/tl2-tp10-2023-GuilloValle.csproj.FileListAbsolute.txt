@@ -288,3 +288,4 @@ C:\Users\Guillo\Desktop\taller2\TP12\tl2-tp10-2023-GuilloValle\obj\Debug\net7.0\
 C:\Users\Guillo\Desktop\taller2\TP12\tl2-tp10-2023-GuilloValle\obj\Debug\net7.0\tl2-tp10-2023-GuilloValle.pdb
 C:\Users\Guillo\Desktop\taller2\TP12\tl2-tp10-2023-GuilloValle\obj\Debug\net7.0\tl2-tp10-2023-GuilloValle.genruntimeconfig.cache
 C:\Users\Guillo\Desktop\taller2\TP12\tl2-tp10-2023-GuilloValle\obj\Debug\net7.0\ref\tl2-tp10-2023-GuilloValle.dll
+C:\Users\Guillo\Desktop\taller2\TP12\tl2-tp10-2023-GuilloValle\bin\Debug\net7.0\db\kanban.db
